@@ -1,5 +1,5 @@
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-saswat,sujit,satya,aniket)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-saswat,sujit,satya,aniket%)
 ---
 ## Screenshots
 ### Homepage
